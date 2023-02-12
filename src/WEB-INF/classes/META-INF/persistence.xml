@@ -7,10 +7,10 @@ http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
 	<persistence-unit name="BoutiqaDB">
 		<properties>
 			<property name="javax.persistence.jdbc.url"
-				value="jdbc:mysql://db.mysql.cmyserver.com:19003/wdf_project" />
-			<property name="javax.persistence.jdbc.user" value="test_root" />
+				value="jdbc:mysql://database_URI/database_name" />
+			<property name="javax.persistence.jdbc.user" value="database_username_here" />
 			<property name="javax.persistence.jdbc.password"
-				value="Iancomaya1208" />
+				value="database_password_here" />
 			<property name="javax.persistence.jdbc.driver"
 				value="com.mysql.jdbc.Driver" />
 			<property name="hibernate.show_sql" value="true" />
