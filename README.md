@@ -1,6 +1,18 @@
 # boutiqa
 Development of an online marketplace for a fictional company "Boutiqa" from front-end development using HTML, CSS, and Javascript including prototyping using Axure RP to back-end development using Java and the Spring framework, and database design and implementation using MySQL. 
 
+## Demo
+### Website
+![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/websitedemo.gif)
+
+### Notable features
+
+#### Dark mode
+![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/darkmode.gif)
+
+#### Search suggestions
+![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/searchsuggestions.gif)
+
 ## Prototype
 ### Home page
 ![image](https://user-images.githubusercontent.com/103072306/218356789-91ac7d22-ae3c-4452-826c-d0bfe95369ef.png)
@@ -39,24 +51,52 @@ Development of an online marketplace for a fictional company "Boutiqa" from fron
 ## Pages
 
 ### Home page
-![image](https://user-images.githubusercontent.com/103072306/218357408-c32336ac-9f73-499d-996a-ee5088b7a9cd.png)
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/home.png)
 
 ### Browse page
-![image](https://user-images.githubusercontent.com/103072306/218357446-c29c33c2-b46f-49c1-9ca4-70f6721047d3.png)
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/browse.png)
 
 ### Product page
-![image](https://user-images.githubusercontent.com/103072306/218357474-46d29c2e-a62a-4106-94af-b8d395edeb16.png)
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/product.png)
 
 ### Log in page
-![image](https://user-images.githubusercontent.com/103072306/218357491-674165c6-a072-4dfd-9d5c-9aebb510ad1c.png)
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/login.png)
 
 ### Forget password page
-![image](https://user-images.githubusercontent.com/103072306/218357508-87a54bd3-3d02-43a2-83c4-12734663542d.png)
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/forgetpassword.png)
 
 ### Confirm forget password page
-![image](https://user-images.githubusercontent.com/103072306/218357528-2e9635cd-a6ff-401b-9f34-159051fe08b2.png)
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/forgetpasswordconfirm.png)
 
 ### Reset password page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/resetpw.png)
 
-### 
+### Reset password success page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/resetpwsuccess.png)
+
+### Sign up page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/signup.png)
+
+### Sign up confirm page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/signupconfirm.png)
+
+### Sign up success page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/signupsuccess.png)
+
+### Buyer profile page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/buyerprofile.png)
+
+### Cart page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/cart.png)
+
+### Seller profile page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/sellerprofile.png)
+
+### Product listing page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/productlisting.png)
+
+### Admin dashboard page
+![image](https://iancmy.b-cdn.net/github-docs/boutiqa/admindashboard.png)
+
+
 
