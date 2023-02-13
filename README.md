@@ -1,4 +1,5 @@
-# boutiqa
+# ![logo](https://user-images.githubusercontent.com/103072306/218366137-79e9efb8-1b15-4536-bd77-b3bc6999ae84.png) boutiqa
+
 Development of an online marketplace for a fictional company "Boutiqa" from front-end development using HTML, CSS, and Javascript including prototyping using Axure RP to back-end development using Java and the Spring framework, and database design and implementation using MySQL. 
 
 ## Demo
