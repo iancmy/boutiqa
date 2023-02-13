@@ -4,10 +4,10 @@ Development of an online marketplace for a fictional company "Boutiqa" from fron
 ## Demo
 
 #### Browsing products
-![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/browsingproducts.gif)
+![gif](https://github.com/iancmy/boutiqa/blob/main/browsingproducts.gif)
 
 #### Add to cart
-![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/addtocart.gif)
+![gif](https://github.com/iancmy/boutiqa/blob/main/addtocart.gif)
 
 #### Updating profile
 ![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/updateprofile.gif)
