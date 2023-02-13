@@ -2,8 +2,15 @@
 Development of an online marketplace for a fictional company "Boutiqa" from front-end development using HTML, CSS, and Javascript including prototyping using Axure RP to back-end development using Java and the Spring framework, and database design and implementation using MySQL. 
 
 ## Demo
-### Website
-![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/websitedemo.gif)
+
+#### Browsing products
+![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/browsingproducts.gif)
+
+#### Add to cart
+![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/addtocart.gif)
+
+#### Updating profile
+![gif](https://iancmy.b-cdn.net/github-docs/boutiqa/updateprofile.gif)
 
 ### Notable features
 
